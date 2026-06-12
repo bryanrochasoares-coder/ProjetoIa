@@ -1,0 +1,10 @@
+header{
+    background-color:#blue;
+    color:#white;
+    text_align: center;
+}
+main{
+    background-color:#white;
+    color:#blue;
+    text_align:center;
+}
